@@ -2,4 +2,4 @@
 a guide by Kenny Zhang
 
 ## resources
-cheat sheet https://overapi.com/html
+[cheat sheet](https://overapi.com/html)
