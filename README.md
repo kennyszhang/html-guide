@@ -2,17 +2,17 @@
 a guide by Kenny Zhang
 
 ## resources
-[online code editor (repl.it)](https://repl.it/)
-[cheat sheet](https://overapi.com/html)
-[w3school html tutorial](https://www.w3schools.com/html/default.asp)
-[mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [online code editor (repl.it)](https://repl.it/)
+- [cheat sheet](https://overapi.com/html)
+- [w3school html tutorial](https://www.w3schools.com/html/default.asp)
+- [mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ## example
 coming soon!
 
 ## faq
 - what is html?
-html (hyper text markup language) is a language that tells web browsers how to structure the websites you visit.
+- html (hyper text markup language) is a language that tells web browsers how to structure the websites you visit
 to do this html uses two things: tags and attributes
 
 - what are tags?
