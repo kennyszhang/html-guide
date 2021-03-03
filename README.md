@@ -19,7 +19,7 @@ coming soon!
   - an html tag is a reserved word surrounded by angle brackets
 - for example:
 
-- (<p> Hello World! </p>)
+`<p> Hello World! </p>`
 
 - most tags must be opened (<p>) and closed (</p>) in order to function
 
@@ -27,7 +27,7 @@ coming soon!
   - attributes contain additional pieces of information inside the opening tag
 - for example:
 
-- "<img src="panda.jpg">"
+`<img src="panda.jpg">`
 
 - the image source (src) is the attribute of the img tag
 - also this is one of the few tags in html that does not have a closed tag :O
@@ -36,6 +36,6 @@ coming soon!
 - you can wrap your content with multiple tags, just make sure you close the tags correctly
 - for example:
 
-- "<strong><em> Hello World! </em></strong>"
+`<strong><em> Hello World! </em></strong>`
 
 - the em tag has to be closed inside of the strong tag
