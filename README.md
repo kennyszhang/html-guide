@@ -21,7 +21,7 @@ coming soon!
 
 `<p> Hello World! </p>`
 
-- most tags must be opened (<p>) and closed (</p>) in order to function
+- most tags must be opened `<p>` and closed `</p>` in order to function
 
 - what are attributes?
   - attributes contain additional pieces of information inside the opening tag
@@ -29,7 +29,7 @@ coming soon!
 
 `<img src="panda.jpg">`
 
-- the image source (src) is the attribute of the img tag
+- the image source `src` is the attribute of the `<img>` tag
 - also this is one of the few tags in html that does not have a closed tag :O
 
 ## fun fact
@@ -38,4 +38,4 @@ coming soon!
 
 `<strong><em> Hello World! </em></strong>`
 
-- the em tag has to be closed inside of the strong tag
+- the `<em>` tag has to be closed inside of the `<strong>` tag
