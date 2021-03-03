@@ -19,7 +19,7 @@ coming soon!
   - an html tag is a reserved word surrounded by angle brackets
 - for example:
 
-- "<p> Hello World! </p>"
+- (<p> Hello World! </p>)
 
 - most tags must be opened (<p>) and closed (</p>) in order to function
 
