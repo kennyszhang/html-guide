@@ -12,8 +12,8 @@ coming soon!
 
 ## faq
 - what is html?
-- html (hyper text markup language) is a language that tells web browsers how to structure the websites you visit
-to do this html uses two things: tags and attributes
+  - html (hyper text markup language) is a language that tells web browsers how to structure the websites you visit
+  - to do this html uses two things: tags and attributes
 
 - what are tags?
 an html tag is a reserved word surrounded by angle brackets
