@@ -2,11 +2,11 @@
 a guide by Kenny Zhang
 
 ## resources
-[online code editor (repl.it)](https://repl.it/)
-[cheat sheet](https://overapi.com/html)
-[w3school html tutorial](https://www.w3schools.com/html/default.asp)
-[the odin project html and css guide](https://www.theodinproject.com/courses/html-and-css)
-[mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [online code editor (repl.it)](https://repl.it/)
+- [cheat sheet](https://overapi.com/html)
+- [w3school html tutorial](https://www.w3schools.com/html/default.asp)
+- [the odin project html and css guide](https://www.theodinproject.com/courses/html-and-css)
+- [mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ## example
 coming soon!
