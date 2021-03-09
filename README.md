@@ -1,12 +1,19 @@
-# learn-HTML
+# learn-HTML-CSS-Javascript
 a guide by Kenny Zhang
 
 ## resources
 - [online code editor (repl.it)](https://repl.it/)
-- [cheat sheet](https://overapi.com/html)
-- [w3school html tutorial](https://www.w3schools.com/html/default.asp)
+- [html cheat sheet](https://overapi.com/html)
+- [css cheat sheet](https://overapi.com/css)
+- [javascript cheat sheet](https://overapi.com/javascript)
+- [w3schools html tutorial](https://www.w3schools.com/html/default.asp)
+- [w3schools css tutorial](https://www.w3schools.com/css/default.asp)
+- [w3schools javascript turtorial](https://www.w3schools.com/js/default.asp)
 - [the odin project html and css guide](https://www.theodinproject.com/courses/html-and-css)
+- [the odin project javascript guide](https://www.theodinproject.com/courses/javascript)
 - [mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [mozilla getting started with css](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+- [mozilla getting started with javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ## example
 coming soon!
