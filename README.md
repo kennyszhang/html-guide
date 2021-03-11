@@ -2,10 +2,14 @@
 a guide by Kenny Zhang
 
 ## resources
-- [online code editor (repl.it)](https://repl.it/)
+# online code editors
+- [repl.it](https://repl.it/)
+- [codepen](https://codepen.io/)
+# cheat sheets
 - [html cheat sheet](https://overapi.com/html)
 - [css cheat sheet](https://overapi.com/css)
 - [javascript cheat sheet](https://overapi.com/javascript)
+# w3schools
 - [w3schools html tutorial](https://www.w3schools.com/html/default.asp)
 - [w3schools css tutorial](https://www.w3schools.com/css/default.asp)
 - [w3schools javascript turtorial](https://www.w3schools.com/js/default.asp)
