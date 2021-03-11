@@ -1,17 +1,21 @@
-## learn-HTML-CSS-Javascript
+# learn-HTML-CSS-Javascript
 a guide by Kenny Zhang
+
+## table of contents
 
 ## example
 coming soon!
 
 ## resources
+### online code editors
+easy and fast 
 - **repl.it**: https://repl.it/
 - **codepen**: https://codepen.io/
+### cheat sheets
 - **html cheat sheet**: https://overapi.com/html
 - **css cheat sheet**: https://overapi.com/css
 - **javascript cheat sheet**: https://overapi.com/javascript
-
-## language guides
+### language guides
 pick one
 1. - **w3schools html tutorial**: https://www.w3schools.com/html/default.asp
    - **w3schools css tutorial**: https://www.w3schools.com/css/default.asp
