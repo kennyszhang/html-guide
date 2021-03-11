@@ -12,15 +12,15 @@ coming soon!
 - **javascript cheat sheet**: https://overapi.com/javascript
 
 ## language guides
-pick one website that works for you
-- **w3schools html tutorial**: https://www.w3schools.com/html/default.asp
-- **w3schools css tutorial**: https://www.w3schools.com/css/default.asp
-- **w3schools javascript turtorial**: https://www.w3schools.com/js/default.asp
-- **the odin project html and css guide**: https://www.theodinproject.com/courses/html-and-css
-- **the odin project javascript guide**: https://www.theodinproject.com/courses/javascript
-- **mozilla getting started with html**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
-- **mozilla getting started with css**: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
-- **mozilla getting started with javascript**: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+pick one
+1. **w3schools html tutorial**: https://www.w3schools.com/html/default.asp
+   **w3schools css tutorial**: https://www.w3schools.com/css/default.asp
+   **w3schools javascript tutorial**: https://www.w3schools.com/js/default.asp
+2. **the odin project html and css guide**: https://www.theodinproject.com/courses/html-and-css
+   **the odin project javascript guide**: https://www.theodinproject.com/courses/javascript
+3. **mozilla getting started with html**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+   **mozilla getting started with css**: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
+   **mozilla getting started with javascript**: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 ## faq
 - what is html?
