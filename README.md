@@ -10,6 +10,9 @@ coming soon!
 - **html cheat sheet**: https://overapi.com/html
 - **css cheat sheet**: https://overapi.com/css
 - **javascript cheat sheet**: https://overapi.com/javascript
+
+## language guides
+pick one website that works for you
 - **w3schools html tutorial**: https://www.w3schools.com/html/default.asp
 - **w3schools css tutorial**: https://www.w3schools.com/css/default.asp
 - **w3schools javascript turtorial**: https://www.w3schools.com/js/default.asp
