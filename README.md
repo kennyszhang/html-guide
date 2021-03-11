@@ -3,8 +3,8 @@ a guide by Kenny Zhang
 
 ## table of contents
 
-## example
-coming soon!
+- [resources](#resources)
+
 
 ## resources
 ### online code editors
