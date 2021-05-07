@@ -54,7 +54,7 @@ pick one OR mix and match
 - [google fonts](https://fonts.google.com/)
 
 ## syntax-references
-<img src="images/1.png">
+<img src="images/0.png">
 
 also i suggest you look here: [w3schools javascript syntax](https://www.w3schools.com/js/js_syntax.asp)
 
@@ -74,7 +74,7 @@ some things to keep in mind:
 
     `"hello" + " " + "world"` ==> `"hello world"` 
 
-<img src="images/2.png">
+<img src="images/1.png">
 
 ## comparison-operators
 assume x=5
@@ -82,7 +82,7 @@ assume x=5
 some things to keep in mind:
 - personally, i have never used 'strict not equal'
 
-<img src="images/3.png">
+<img src="images/2.png">
 
 ## basics-of-html 
 WORK IN PROGRESS
