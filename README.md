@@ -8,50 +8,13 @@ these three languages teaches you the basics of front-end programming
 
 put simply, html is the bare bones of the human body, css is the skin that covers the bones, and javascript is the individual parts of the human body that each have their own job
 
-## table of contents
+[here](https://github.com/kennyszhang/resources) is a list of resources to aid you in your journey. i highly suggest freecodecamp and the odin project.
 
-- [resources](#resources)
-  - [online code editors](#online-code-editors)
-  - [cheat-sheets](#cheat-sheets)
-  - [guides](#guides)
-  - [other-links-and-resources](#other-links-and-resources)
+## table of contents
 - [syntax-references](#syntax-references)
 - [mathematical-operators](#mathematical-operators)
 - [comparison-operators](#comparison-operators)
 - [basics of html](#basics-of-html) WORK IN PROGRESS
-
-
-## resources
-
-### online-code-editors
-- [replit](https://repl.it/)
-- [codepen](https://codepen.io/)
-
-### cheat-sheets
-- [html cheat sheet](https://overapi.com/html)
-- [css cheat sheet](https://overapi.com/css)
-- [javascript cheat sheet](https://overapi.com/javascript)
-
-### guides
-pick one OR mix and match
-1. - [w3schools html tutorial](https://www.w3schools.com/html/default.asp)
-   - [w3schools css tutorial](https://www.w3schools.com/css/default.asp)
-   - [w3schools javascript tutorial](https://www.w3schools.com/js/default.asp)
-2. - [the odin project html and css guide](https://www.theodinproject.com/courses/html-and-css)
-   - [the odin project javascript guide](https://www.theodinproject.com/courses/javascript)
-3. - [htmldog html beginner tutorial](https://htmldog.com/guides/html/beginner/)
-   - [htmldog css beginner tutorial](https://www.htmldog.com/guides/css/beginner/)
-   - [htmldog javascript tutorial](https://htmldog.com/guides/javascript/)
-4. - [mozilla getting started with html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-   - [mozilla getting started with css](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
-   - [mozilla getting started with javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-
-### other-links-and-resources
-- [color codes](https://htmlcolorcodes.com/color-picker/)
-- [color picker with different shades](https://www.w3schools.com/colors/colors_picker.asp)
-- [css box model](https://css-tricks.com/the-css-box-model/)
-- [css flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [google fonts](https://fonts.google.com/)
 
 ## syntax-references
 <img src="images/0.png">
